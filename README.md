@@ -41,6 +41,8 @@
 - Git / GitHub
 - Jenkins, GitLab, Argo (CI/CD)
 - Jasper Reports
+- Docker
+- Kubernetes
 
 ---
 
